@@ -1,11 +1,11 @@
 name,age,salary,role,description
-Erik Johansson,38,52000,Systemutvecklare,Utvecklar webbapplikationer i .NET och Azure med fokus på kodkvalitet och testdriven utveckling.
-Sofia Nilsson,29,36000,IT-supportspecialist,"Ansvarar för första linjens support, felsökning av hårdvara och mjukvara samt användarutbildning."
-Amir Hassan,45,58000,Molnarkitekt,Designar och förvaltar skalbara molnlösningar på AWS och Azure med säkerhet och kostnadskontroll i fokus.
-Lisa Andersson,34,41000,HR-generalist,"Hanterar rekrytering, arbetsrättsliga frågor, lönerevisioner och medarbetarsamtal i ett medelstort företag."
-Maria Karlsson,31,39000,Rekryteringskonsult,"Driver rekryteringsprocesser för IT- och tjänstesektorn, från annonsering till anställningsavtal och onboarding."
-Daniel Bergman,40,48000,Marknadschef,"Ansvarar för företagets övergripande marknadsstrategi, varumärkesbyggande och budgetansvar för kampanjer."
-Emma Lindberg,27,35000,Digital marknadsförare,"Arbetar med SEO, SEM och sociala medier för att öka synlighet och konvertering online."
-Johan Svensson,42,54000,IT-projektledare,"Ledar IT-projekt från krav till implementation, med ansvar för tidsplan, budget och intressentkommunikation."
-Katarina Westman,50,56000,HR-chef,"Strategiskt ansvar för personalutveckling, organisationsutveckling och arbetsmiljö på koncernnivå."
-Olivia Persson,36,42000,Kommunikatör,"Producerar innehåll till webb, sociala medier och press samt ansvarar för intern och extern kommunikation."
+Erik Andersson,35,45000,Systemutvecklare,Erfaren fullstack-utvecklare med fokus på .NET och Azure.
+Sofia Karlsson,28,38000,IT-supporttekniker,Ansvarsfull supporttekniker som hanterar användarärenden och hårdvara.
+Amir Hassan,42,58000,Säkerhetsspecialist,Specialiserad på nätverkssäkerhet och riskhantering för företag.
+Elin Berg,31,42000,HR-koordinator,"Koordinerar rekrytering, onboarding och personalvård."
+Maria Lundberg,49,60000,HR-chef,Ansvarig för hela HR-avdelningen och strategisk personalplanering.
+Johan Nilsson,26,33000,Marknadskoordinator,"Hjälper till med kampanjplanering, mässor och marknadsföringsmaterial."
+Linnea Svensson,34,47000,Digital marknadsförare,"Fokuserar på SEO, SEM och sociala medier för att öka synlighet online."
+Oskar Dahl,39,52000,Content manager,Ansvarig för innehållsproduktion och redaktionell planering på webben.
+Fatima Ali,45,55000,IT-projektledare,Leads IT-projekt från idé till implementation med fokus på tidsplan och budget.
+Gustav Persson,30,40000,Rekryterare,Söker och intervjuar kandidater för tjänster inom tech och administration.
