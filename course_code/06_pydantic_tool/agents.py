@@ -1,5 +1,7 @@
 from pydantic_ai import Agent
 from model import nividia_model
+from tools import geocode, get_weather, WeatherDeps
+from pydantic_ai.toolsets import FunctionToolset
 
 weather_agent = Agent(
     model=nividia_model(),
@@ -9,5 +11,6 @@ weather_agent = Agent(
         " use the available tools whenever possible. When there "
         " are questions that are not about weather, decline them"
     ),
-    
+    toolsets=[FunctionToolset([get_weather, geocode])],
+    deps_type=WeatherDeps
 )
