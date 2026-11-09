@@ -1,11 +1,11 @@
 from pydantic_ai import Agent
 from pydantic_ai import RunContext
-from model import nvidia_model
+from model import nividia_model
 from dependencies import ClientDeps
 from datetime import datetime
 from pathlib import Path
 
-model = nvidia_model("nvidia/nemotron-3.5-super-vl-120b-a12b")
+model = nividia_model()
 
 study_agent = Agent(
     model=model,
