@@ -1,7 +1,7 @@
 from pydantic_ai import Agent
 from pydantic_ai import RunContext
 from model import nvidia_model
-from depdencies import ClientDeps
+from dependencies import ClientDeps
 from datetime import datetime
 from pathlib import Path
 
@@ -72,4 +72,4 @@ def export_report(ctx: RunContext[ClientDeps], text: str):
     exports_dir = Path("exports")
     exports_dir.mkdir(exist_ok=True)
     path = exports_dir / f"{ctx.deps.name.casefold()}_{timestamp}.md"
-    path.write_text(text)
+    path.write_text(text, encoding="utf-8")
